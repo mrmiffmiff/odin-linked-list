@@ -1,2 +1,2 @@
-# odin-linked-list
-An implementation of Linked Lists made for the Odin Project
+# Odin Linked List
+An implementation of Linked Lists made for The Odin Project. Basic CS stuff.
